@@ -30,7 +30,7 @@ Attended a career counselling session.
 
 **Evidence:**  
 Completed a skills and interests survey.  
-📎 [Skills and interests submissions]()
+📎 [Skills and interests submissions](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Skills%20and%20Interest%20Submission.jpeg)
 
 **Reflection (STAR):**  
 - **S**:  I wanted to understand how my skills, interests, and values can guide my career choice. 
