@@ -20,24 +20,24 @@ Attended a career counselling session.
 📎 [Career Development Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Career%20Development.jpeg)
 
 **Reflection (STAR):**  
-- **S**: I needed guidance on choosing a career.  
-- **T**: Attend a counselling session.  
-- **A**: Asked questions and explored options.  
-- **R**: Discovered new career paths that match my interests.
-
+- **S**: I wanted to learn more about planning for my future career.  
+- **T**: Complete a career counselling quiz to test my understanding. 
+- **A**: I answered questions about goal setting, hard skills, and career planning. 
+- **R**: I got all the answers correct and now understand how career counselling helps guide my career path.
 ---
 
 ## 🔧 Skills and Interests
 
 **Evidence:**  
 Completed a skills and interests survey.  
-📎 [Insert screenshot or file link]
+📎 [Skills and interests submissions]()
 
 **Reflection (STAR):**  
-- **S**: I wanted to understand my strengths.  
+- **S**:  I wanted to understand how my skills, interests, and values can guide my career choice. 
 - **T**: Complete a self-assessment.  
 - **A**: Took the test and reviewed my results.  
-- **R**: Learned my top skills are [list a few], which match roles in ICT.
+- **R**: I got all the answers correct and gained a clearer understanding of how my strengths and personal values can help me choose the right career path.
+
 
 ---
 
@@ -50,8 +50,8 @@ Took a personality test.
 **Reflection (STAR):**  
 - **S**: I was curious about my work style.  
 - **T**: Take a personality test.  
-- **A**: Completed the test and read the profile.  
-- **R**: Found out I am a [Your Type], which fits [job type].
+- **A**: I answered questions about different personality types (like Artistic, Realistic, and Conventional) and how they relate to career paths. 
+- **R**: I got most answers correct and learned that knowing my personality can help me find a career that suits how I like to think and work.
 
 ---
 
