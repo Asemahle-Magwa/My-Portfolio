@@ -59,7 +59,7 @@ Took a personality test (e.g., 16Personalities).
 
 **Evidence:**  
 Created a professional CV.  
-📎 [Download My CV](./Asemahle Magwa CV .pdf)
+📎 [Download My CV](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Asemahle%20Magwa%20CV%20.pdf)
 
 **Reflection (STAR):**  
 - **S**: I needed a CV for future job applications.  
