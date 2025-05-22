@@ -17,7 +17,7 @@ Welcome to my digital portfolio. This space showcases key evidence and reflectio
 
 **Evidence:**  
 Attended a career counselling session.  
-📎 [Career Development Submission]()
+📎 [Career Development Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Career%20Development.jpeg)
 
 **Reflection (STAR):**  
 - **S**: I needed guidance on choosing a career.  
