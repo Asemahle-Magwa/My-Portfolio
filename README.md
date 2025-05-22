@@ -44,7 +44,7 @@ Completed a skills and interests survey.
 ## 🧬 Personality Assessment
 
 **Evidence:**  
-Took a personality test (e.g., 16Personalities).  
+Took a personality test.  
 📎 [Insert link or image of results]
 
 **Reflection (STAR):**  
