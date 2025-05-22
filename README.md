@@ -45,7 +45,7 @@ Completed a skills and interests survey.
 
 **Evidence:**  
 Took a personality test.  
-📎 [Insert link or image of results]
+📎 [Personality Assessment Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Personality%20Assessment%20Submission.jpeg)
 
 **Reflection (STAR):**  
 - **S**: I was curious about my work style.  
