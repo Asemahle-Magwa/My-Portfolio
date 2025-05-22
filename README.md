@@ -73,7 +73,7 @@ Created a professional CV.
 
 **Evidence:**  
 Submitted the CV via Blackboard.  
-📎 [Insert screenshot or confirmation note]
+📎 [CV Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/CV%20Submission.jpeg)
 
 **Reflection (STAR):**  
 - **S**: CV needed to be submitted for assessment.  
