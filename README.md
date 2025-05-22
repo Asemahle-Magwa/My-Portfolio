@@ -24,6 +24,8 @@ Attended a career counselling session.
 - **T**: Complete a career counselling quiz to test my understanding. 
 - **A**: I answered questions about goal setting, hard skills, and career planning. 
 - **R**: I got all the answers correct and now understand how career counselling helps guide my career path.
+
+  
 ---
 
 ## 🔧 Skills and Interests
