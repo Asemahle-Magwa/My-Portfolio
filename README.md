@@ -10,6 +10,11 @@ Welcome to my digital portfolio. This space showcases key evidence and reflectio
 - [Personality Assessment](#personality-assessment)
 - [Curriculum Vitae (CV)](#curriculum-vitae-cv)
 - [CV Submission](#cv-submission)
+- [Business Communication](#-business-communication)  
+- [Interview Skills](#-interview-skills)  
+- [Mock Interview](#-mock-interview)  
+- [Professional Networking](#-professional-networking)  
+- [Workplace Etiquette](#-workplace-etiquette)  
 
 ---
 
@@ -165,7 +170,7 @@ Submitted the CV via Blackboard.
 
 **📂 Evidence:**  
 
-- [📘 Workplace Etiquette Report](#) *(Add link or upload document)*  
+- [📘 Workplace Etiquette Report](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Asemahle%20Magwa%20Workplace%20Etiquette.png)  
 
 **🪞 Reflection (STAR):**  
 
