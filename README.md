@@ -111,7 +111,7 @@ Submitted the CV via Blackboard.
 
 **📂 Evidence:**  
 
-- [📝 Interview Preparation Notes](#) *(Add link or upload file/video)*  
+- [📝 Interview Preparation Notes](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Asemahle%20Magwa%20Interview%20Skills.png) 
 
 **🪞 Reflection (STAR):**  
 
