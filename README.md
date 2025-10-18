@@ -84,3 +84,101 @@ Submitted the CV via Blackboard.
 - **R**: Submission successful.
 
 ---
+
+## 💼 1. Business Communication  
+
+**📂 Evidence:**  
+
+- [📄 Download My CV](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Asemahle%20Magwa%20CV.pdf)  
+
+- Professionally formatted CV created for career readiness and job applications.  
+
+
+
+**🪞 Reflection (STAR):**  
+
+- **Situation:** Required to produce a professional CV for the work readiness portfolio.  
+
+- **Task:** Develop a document that reflects academic achievements and professional potential.  
+
+- **Action:** Designed a clean, concise layout using standard formatting and career-focused language.  
+
+- **Result:** Produced a polished and professional CV suitable for immediate use in job applications.  
+
+---
+
+## 🎙️ 2. Interview Skills  
+
+**📂 Evidence:**  
+
+- [📝 Interview Preparation Notes](#) *(Add link or upload file/video)*  
+
+**🪞 Reflection (STAR):**  
+
+- **Situation:** Tasked with preparing for mock interviews to strengthen communication and presentation skills.  
+
+- **Task:** Research typical interview questions and practice delivering confident responses.  
+
+- **Action:** Conducted mock sessions, recorded feedback, and refined articulation and body language.  
+
+- **Result:** Improved confidence, self-presentation, and understanding of professional interview expectations.  
+
+---
+
+## 🗣️ 3. Mock Interview  
+
+**📂 Evidence:**  
+
+- [🎥 Mock Interview Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/MockInterview_Submission1.jpeg)  
+
+
+
+**🪞 Reflection (STAR):**  
+
+- **Situation:** Participated in a simulated professional interview environment.  
+
+- **Task:** Demonstrate communication, punctuality, and confidence during an interview.  
+
+- **Action:** Maintained professional posture, eye contact, and applied STAR-based answers.  
+
+- **Result:** Received positive feedback from assessors on professionalism and composure.  
+
+---
+
+## 🌐 4. Professional Networking  
+
+**📂 Evidence:**  
+
+- [🔗 LinkedIn Profile](https://www.linkedin.com/in/asemahle-magwa-ba975726a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
+
+**🪞 Reflection (STAR):**  
+
+- **Situation:** Expected to develop an online professional presence.  
+
+- **Task:** Create and optimize a LinkedIn profile highlighting academic background and career goals.  
+
+- **Action:** Added a professional photo, education details, and connected with peers and professionals.  
+
+- **Result:** Built a growing professional network and improved digital visibility in my field.  
+
+---
+
+## 🧠 5. Workplace Etiquette  
+
+**📂 Evidence:**  
+
+- [📘 Workplace Etiquette Report](#) *(Add link or upload document)*  
+
+**🪞 Reflection (STAR):**  
+
+- **Situation:** Learned the importance of professional conduct, teamwork, and communication.  
+
+- **Task:** Apply proper etiquette within academic and simulated workplace settings.  
+
+- **Action:** Practiced time management, respectful communication, and task prioritization.  
+
+- **Result:** Demonstrated a strong understanding of workplace expectations and professionalism.  
+
+---
+
+
