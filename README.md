@@ -129,9 +129,7 @@ Submitted the CV via Blackboard.
 
 **📂 Evidence:**  
 
-- [🎥 Mock Interview Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/MockInterview_Submission1.jpeg)  
-
-
+- [🎥 Mock Interview Submission](https://github.com/Asemahle-Magwa/My-Portfolio/blob/main/Asemahle%20Magwa%20Mock%20Interview.mp4) 
 
 **🪞 Reflection (STAR):**  
 
